@@ -17,7 +17,7 @@ A simple script to update your DNS records on CloudFlare. This script leverages 
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/andrearaponi/ddns-cloudy](https://github.com/andrearaponi/ddns-cloudy)
+git clone https://github.com/andrearaponi/ddns-cloudy
 ```
 
 2. Navigate to the repository:
